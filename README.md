@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masud-abdulkadir
+- 👋 Hi, I’m Masud
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning Python, Bash & C++
 - 💞️ I’m looking to collaborate on Bitcoin projects
