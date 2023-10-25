@@ -16,12 +16,7 @@
 
 
 **🔧 Languages and tools**:
-<div>
-    <code><img height="20" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/go.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
-<div>
-
+Python, C++, Git, Visual Studio Code, Blender, ChatGPT
 <!---
 masud-abdulkadir/masud-abdulkadir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
