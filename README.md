@@ -6,7 +6,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/masud-abdulkadir/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://t.me/theletterm" title="Telegram Profile"><img width="22" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/telegram.svg"> Telegram</a></code>
+  <code><a href="https://t.me/TheLetterM" title="Telegram Profile"><img width="22" src="https://raw.githubusercontent.com/aureleoules/aureleoules/master/images/telegram.svg"> Telegram</a></code>
 </h5>
 
 - 👀 I’m interested in Bitcoin
