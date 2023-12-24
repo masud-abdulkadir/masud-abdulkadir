@@ -10,7 +10,7 @@
 </h5>
 
 - 👀 I’m interested in Bitcoin
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python, Rust and C++.
 - 💞️ I’m looking to collaborate on Bitcoin projects
 - 📫 How to reach me email me masudabdulkadir@outlook.com
 
