@@ -15,10 +15,10 @@
 - 📫 How to reach me email me masudabdulkadir@outlook.com
 
 
-**:wrench: Languages and tools**:
+**🔧 Languages and tools:**
 Linux, Python, Rust, C++, Git, Visual Studio Code, Neovim, Blender, Ai. 
 
-**📓 Traditional Education: **
+**📓 Traditional Education:**
 - 🧠 Degree in Neuroscience 
 - 🔬 Nanotechnology
 - 🤖 Artificial Intelligence 
