@@ -15,8 +15,13 @@
 - 📫 How to reach me email me masudabdulkadir@outlook.com
 
 
-**🔧 Languages and tools**:
-Python, C++, Git, Visual Studio Code, Blender, ChatGPT
+**:wrench: Languages and tools**:
+Linux, Python, Rust, C++, Git, Visual Studio Code, Neovim, Blender, Ai. 
+
+**📓 Traditional Education: **
+- 🧠 Degree in Neuroscience 
+- 🔬 Nanotechnology
+- 🤖 Artificial Intelligence 
 <!---
 masud-abdulkadir/masud-abdulkadir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
