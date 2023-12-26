@@ -17,6 +17,7 @@
 
 **🔧 Languages and tools:**
 Linux, Python, Rust, C++, Git, Visual Studio Code, Neovim, Blender, Ai. 
+IDE: NvChad custom with Tmux, Wezterm Terminal Emulator and Zsh as my shell. 
 
 **📓 Traditional Education:**
 - 🧠 Degree in Neuroscience 
