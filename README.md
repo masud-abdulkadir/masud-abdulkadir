@@ -18,7 +18,13 @@
 **🔧 Languages and tools:**
 Linux, Python, Rust, C++, Git, Neovim, Blender, Ai. 
 
-IDE: NvChad custom with Tmux, Wezterm Terminal Emulator and Zsh as my shell. - Will Likely transition to Nushell, WezTerm, Zellij and Helix.?
+IDE: NvChad custom with Tmux, Wezterm Terminal Emulator and Zsh as my shell. 
+- Will Likely transition to:
+  shell: Nushell,
+  prompt: Starship
+  emulator: WezTerm,
+  multiplexer: Zellij,
+  editor: Neovim.
 
 **📓 Traditional Education:**
 - 🧠 Degree in Neuroscience 
