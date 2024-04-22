@@ -11,7 +11,7 @@
 
 
 **🔧 Languages and tools:**
-Linux, Python, Rust, C++, Git, Neovim, Blender, Ai. 
+Mostly using Rust and sometimes Python. 
 
 IDE: NvChad custom with Tmux, Wezterm Terminal Emulator and Zsh.
 - Will Likely transition to:
