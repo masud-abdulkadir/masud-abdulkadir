@@ -11,9 +11,7 @@
 
 
 **📓 Traditional Education:**
-- 🧠 Degree Major: Neuroscience 
-- 🔬 Minor: Nanotechnology
-- 🤖 Minor: Artificial Intelligence 
+- 🧠 Degree Major: Neuroscience - 🔬 Minor: Nanotechnology - 🤖 Minor: Artificial Intelligence 
 <!---
 masud-abdulkadir/masud-abdulkadir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
