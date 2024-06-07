@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on Bitcoin projects, or projects that look to integrate Bitcoin into the project. 
+- 💞️ I’m looking to collaborate on Bitcoin projects, or projects that look to integrate Bitcoin into the project e.g. [Nostr](https://github.com/nostr-protocol/nostr)/[Cashu](https://github.com/cashubtc). 
 - 📫 How to reach me email me masudabdulkadir@outlook.com
 
 
