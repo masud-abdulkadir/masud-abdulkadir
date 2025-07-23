@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on Bitcoin projects, or projects that look to integrate Bitcoin / ⚡Lightning into the project e.g. [Nostr](https://github.com/nostr-protocol/nostr)/[Cashu](https://github.com/cashubtc) (E-Cash).
+- 💞️ I’m looking to collaborate on Bitcoin projects, or projects that look to integrate Bitcoin / ⚡Lightning into the project or related tech: e.g. [Nostr](https://github.com/nostr-protocol/nostr)/[Cashu](https://github.com/cashubtc) (E-Cash).
 
 
 **📓 Traditional Education:**
