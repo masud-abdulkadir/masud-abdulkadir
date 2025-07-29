@@ -2,7 +2,7 @@
 
 
 
-  <h2 align="center">👋 Hi, I’m Masud</h2>
+  <h2 align="center">👋 Hi, I’m M</h2>
 
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning Rust.
